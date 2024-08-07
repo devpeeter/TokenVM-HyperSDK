@@ -451,6 +451,8 @@ out on the Avalanche Discord._
   messages, which will remain signable and in state until a refund action is
   issued)
 
+  killall avalanche-network-runner
+
 <br>
 <br>
 <br>
